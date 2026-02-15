@@ -47,9 +47,10 @@ This project builds an AI-driven dashboard to analyze historical sales data and 
 
 
 ##  Dashboard Preview
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](powerbi/image.png)
+![alt text](powerbi/image-1.png)
+![alt text](powerbi/image-2.png)
+
 
 ## Final Report
-Detailed report: [SALES PERFORMANCE ANALYSIS](reports/SALES%20PERFORMANCE%20ANALYSIS.docx)
+Detailed report: [SALES PERFORMANCE ANALYSIS](reports/sales-performance-analysis-report.docx)
